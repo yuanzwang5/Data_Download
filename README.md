@@ -1,2 +1,2 @@
-# Data_Downloading
-Several fundimental codes to download data
+# Data Download
+Several fundamental codes to download different classes of data
