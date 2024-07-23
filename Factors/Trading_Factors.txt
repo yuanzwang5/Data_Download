@@ -1,4 +1,4 @@
-Data Source Descriptions of addition 22 Factors
+Data Source Descriptions of additional 22 Trading Factors
 
 1. Fama-French
 website: https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html
