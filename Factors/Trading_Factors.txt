@@ -54,6 +54,6 @@ Download HXZ's 1-way sorts "ivff" (anomaly in Frictions) and "sue" (anomaly in M
 and then use quantile 10 - quantile 1 to obtain the anomaly results
 
 7. Intermediary (IMD)
-website: https://voices.uchicago.edu/zhiguohe/data-and-empirical-patterns/intermediary-capital-ratio-and-risk-factor/
+website: https://zhiguohe.net/data-and-empirical-patterns/intermediary-capital-ratio-and-risk-factor/
 
 Use the 3rd column --> "intermediary_value_weighted_investment_return"
