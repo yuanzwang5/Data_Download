@@ -23,7 +23,7 @@ Sorts involving Accruals, Market Beta, Net Share Issues, Daily Variance, and Dai
 After download, use "Lo 10" - "Hi 10"
 
 2. Liquidity
-website: https://finance.wharton.upenn.edu/~stambaug/liq_data_1962_2021.txt
+website: https://finance.wharton.upenn.edu/~stambaug/liq_data_1962_2023.txt
 
 Column 4: Traded liquidity factor (LIQ_V, 10-1 portfolio return) use as LIQ Factor
 
