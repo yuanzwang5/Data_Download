@@ -5,7 +5,7 @@ Use all-stocks value-weighted characteristics to calculate;
 Raw data comes from "chars60_raw_no_impute.feather" (Could find on "Dropbox/ResearchData/EquityCharacteristics/")
 
 2. SVAR
-Use daily market return from Fama-French Library, 3 Factors (https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html)
+Use daily market return from Fama-French Library, 3 Factors [Daily] (https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html)
 Use daily market excess return plus risk-free rate to get daily market return (i.e. MKT = MKTRF + RF)
 Use prevailing 12 months' daily return to calculate each month's stock variance;
 
