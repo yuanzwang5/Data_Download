@@ -10,7 +10,7 @@ Use daily market excess return plus risk-free rate to get daily market return (i
 Use prevailing 12 months' daily return to calculate each month's stock variance;
 
 3. ILL
-Download data directly from https://finance.wharton.upenn.edu/~stambaug/liq_data_1962_2021.txt
+Download data directly from https://finance.wharton.upenn.edu/~stambaug/liq_data_1962_2023.txt
 Use column: % Column 2: Levels of aggregated liquidity (Figure 1 in the paper) 
 
 4. INFL
