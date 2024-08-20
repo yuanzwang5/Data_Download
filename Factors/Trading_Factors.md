@@ -21,7 +21,7 @@
         --> Portfolios Formed on Residual Variance \
         After download, use "Lo 10" - "Hi 10"
 
-2. Liquidity
+2. Liquidity (automatically by "data_from_website.py")
 - website: https://finance.wharton.upenn.edu/~stambaug/liq_data_1962_2023.txt
 
     --- Column 4: Traded liquidity factor (LIQ_V, 10-1 portfolio return) use as LIQ Factor \
