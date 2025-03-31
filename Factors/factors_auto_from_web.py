@@ -18,6 +18,17 @@ factor_list = ['MKTRF','SMB','HML','RMW','CMA','RF','UMD','STR','LTR','NI','BETA
 
 
 
+# FF3
+dates_filepath = 'ff3.csv'
+ff3 = pd.read_csv("https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/F-F_Research_Data_Factors_CSV.zip", header=2, index_col=0)
+ff3 = ff3.reset_index().loc[:(ff3.index.tolist().index(' Annual Factors: January-December ') - 1)]
+ff3 = ff3.rename(columns={'index': 'Date', 'Mkt-RF': 'MKTRF'}).set_index('Date')
+ff3 = ff3.astype("float") / 100.0
+ff3 = ff3.reset_index()
+
+ff3.to_csv(dates_filepath)
+
+
 # FF5
 dates_filepath = 'ff5.csv'
 ff5 = pd.read_csv("https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/F-F_Research_Data_5_Factors_2x3_CSV.zip", header=2, index_col=0)
