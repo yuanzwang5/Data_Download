@@ -29,7 +29,7 @@
     --- (Tips: Column 2: Levels of aggregated liquidity (Figure 1 in the paper) use as Macro predictor named as "x_ill"
 
 3. AQR Factors
-- (1) HMLM
+- (1) HMLD
     --- website: https://www.aqr.com/Insights/Datasets/The-Devil-in-HMLs-Details-Factors-Monthly
 
 - (2) QMJ
